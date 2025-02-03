@@ -1,6 +1,6 @@
 # Streaming-Ecosystem-Analysis
 
-[Project PowerPoint](Streaming Ecosystem Analysis.pdf)
+[Project PowerPoint](Streaming_Ecosystem_Analysis.pdf)
 
 ## Project Overview
 
